@@ -7,8 +7,5 @@ Java: por quê é difícil e como domá-lo.
 
 ## ✨Neste ebook aprenderemos: 
 
-|Temas| Capítulos|
-|-----|----------|
-|
-
+ 
 -[Veja mais sobre o Ebook e outros no meu Linkedin](wdqdddedf.com)
